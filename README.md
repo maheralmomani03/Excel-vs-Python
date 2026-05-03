@@ -6,15 +6,15 @@ This repository documents a 70-day challenge of automating real-world accounting
 ## 📅 70-Day Automation Roadmap
 
 - [x] **Day 01:** Professional Data Cleaning & Formatting
-- [ ] **Day 02:** Budget vs Actual Variance Analysis
-- [ ] **Day 03:** Real-time Currency Conversion (AED to USD)
-- [ ] **Day 04:** Financial Waterfall Chart Visualization
-- [ ] **Day 05:** Net Present Value (NPV) for Investment Appraisal
-- [ ] **Day 06:** Merging Branch Data (Better than VLOOKUP)
-- [ ] **Day 07:** Accounts Receivable Aging Report
-- [ ] **Day 08:** Sales Forecasting (Linear Regression)
-- [ ] **Day 09:** Extracting Invoice Numbers from Raw Text
-- [ ] **Day 10:** Cost-Volume-Profit (Break-even Analysis)
+- [x] **Day 02:** Budget vs Actual Variance Analysis
+- [x] **Day 03:** Real-time Currency Conversion (AED to USD)
+- [x] **Day 04:** Financial Waterfall Chart Visualization
+- [x] **Day 05:** Net Present Value (NPV) for Investment Appraisal
+- [x] **Day 06:** Merging Branch Data (Better than VLOOKUP)
+- [x] **Day 07:** Accounts Receivable Aging Report
+- [x] **Day 08:** Sales Forecasting (Linear Regression)
+- [x] **Day 09:** Extracting Invoice Numbers from Raw Text
+- [x] **Day 10:** Cost-Volume-Profit (Break-even Analysis)
 - [ ] **Day 11:** Product Profitability Analysis (Contribution Margin)
 - [ ] **Day 12:** Finding Duplicate Transactions in General Ledger
 - [ ] **Day 13:** Compound Annual Growth Rate (CAGR) Calculator
