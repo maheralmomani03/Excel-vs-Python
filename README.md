@@ -15,7 +15,7 @@ This repository documents a 70-day challenge of automating real-world accounting
 - [x] **Day 08:** Sales Forecasting (Linear Regression)
 - [x] **Day 09:** Extracting Invoice Numbers from Raw Text
 - [x] **Day 10:** Cost-Volume-Profit (Break-even Analysis)
-- [ ] **Day 11:** Product Profitability Analysis (Contribution Margin)
+- [* ] **Day 11:** Product Profitability Analysis (Contribution Margin)
 - [ ] **Day 12:** Finding Duplicate Transactions in General Ledger
 - [ ] **Day 13:** Compound Annual Growth Rate (CAGR) Calculator
 - [ ] **Day 14:** Automated Overhead Cost Allocation
