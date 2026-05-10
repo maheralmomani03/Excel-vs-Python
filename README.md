@@ -15,14 +15,14 @@ This repository documents a 70-day challenge of automating real-world accounting
 - [x] **Day 08:** Sales Forecasting (Linear Regression)
 - [x] **Day 09:** Extracting Invoice Numbers from Raw Text
 - [x] **Day 10:** Cost-Volume-Profit (Break-even Analysis)
-- [* ] **Day 11:** Product Profitability Analysis (Contribution Margin)
-- [ ] **Day 12:** Finding Duplicate Transactions in General Ledger
-- [ ] **Day 13:** Compound Annual Growth Rate (CAGR) Calculator
-- [ ] **Day 14:** Automated Overhead Cost Allocation
-- [ ] **Day 15:** Real-time Stock Performance (Tesla Project)
-- [ ] **Day 16:** Altman Z-Score Calculation
-- [ ] **Day 17:** Cleaning and Standardizing Date Formats
-- [ ] **Day 18:** Finding the Lowest Price among Suppliers
+- [x] **Day 11:** Product Profitability Analysis (Contribution Margin)
+- [ x] **Day 12:** Finding Duplicate Transactions in General Ledger
+- [x ] **Day 13:** Compound Annual Growth Rate (CAGR) Calculator
+- [x ] **Day 14:** Automated Overhead Cost Allocation
+- [ x] **Day 15:** Real-time Stock Performance (Tesla Project)
+- [x ] **Day 16:** Altman Z-Score Calculation
+- [x ] **Day 17:** Cleaning and Standardizing Date Formats
+- [ x] **Day 18:** Finding the Lowest Price among Suppliers
 - [ ] **Day 19:** Days Sales Outstanding (DSO) Calculation
 - [ ] **Day 20:** Instant Financial Summary using Python Pivot
 - [ ] **Day 21:** Sensitivity Analysis for Profit Projections
