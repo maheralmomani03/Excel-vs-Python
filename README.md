@@ -25,56 +25,56 @@ This repository documents a 70-day challenge of automating real-world accounting
 - [x] **Day 18:** Finding the Lowest Price among Suppliers
 - [x] **Day 19:** Days Sales Outstanding (DSO) Calculation
 - [x] **Day 20:** Instant Financial Summary using Python Pivot
-- [x ] **Day 21:** Sensitivity Analysis for Profit Projections
-- [x ] **Day 22:** Merging Data from All Excel Sheets into One Master Table
-- [x ] **Day 23:** Finding Relationships between Expense Categories (Heatmap)
-- [ ] **Day 24:** Splitting Complex Strings (e.g., ID-Date-Category)
-- [ ] **Day 25:** Weighted Average Cost of Capital (WACC) Calculation
-- [ ] **Day 26:** Common-Size Income Statement (Vertical Analysis)
-- [ ] **Day 27:** Detecting Financial Trends using Moving Averages
-- [ ] **Day 28:** Masking Sensitive Data (e.g., Account Numbers)
-- [ ] **Day 29:** Internal Rate of Return (IRR) for Capital Budgeting
-- [ ] **Day 30:** Expense Distribution Analysis (Histogram)
-- [ ] **Day 31:** Marketing Campaign ROI Calculator
-- [ ] **Day 32:** Automated Branch Sales Performance Ranking
-- [ ] **Day 33:** Automated Cost of Goods Sold (COGS)
-- [ ] **Day 34:** Expense Distribution Visualization (Pie Chart)
-- [ ] **Day 35:** Fraud Detection using Benford's Law Analysis
-- [ ] **Day 36:** Gross Profit Margin Analysis
-- [ ] **Day 37:** Allowance for Doubtful Accounts (AFDA)
+- [x] **Day 21:** Sensitivity Analysis for Profit Projections
+- [x] **Day 22:** Merging Data from All Excel Sheets into One Master Table
+- [x] **Day 23:** Finding Relationships between Expense Categories (Heatmap)
+- [x] **Day 24:** Splitting Complex Strings (e.g., ID-Date-Category)
+- [x] **Day 25:** Weighted Average Cost of Capital (WACC) Calculation
+- [x] **Day 26:** Common-Size Income Statement (Vertical Analysis)
+- [x] **Day 27:** Detecting Financial Trends using Moving Averages
+- [x] **Day 28:** Masking Sensitive Data (e.g., Account Numbers)
+- [x] **Day 29:** Internal Rate of Return (IRR) for Capital Budgeting
+- [x] **Day 30:** Expense Distribution Analysis (Histogram)
+- [x] **Day 31:** Marketing Campaign ROI Calculator
+- [x] **Day 32:** Automated Branch Sales Performance Ranking
+- [x] **Day 33:** Automated Cost of Goods Sold (COGS)
+- [x] **Day 34:** Expense Distribution Visualization (Pie Chart)
+- [x] **Day 35:** Fraud Detection using Benford's Law Analysis
+- [x] **Day 36:** Gross Profit Margin Analysis
+- [x] **Day 37:** Allowance for Doubtful Accounts (AFDA)
 - [x] **Day 38:** Extracting Transaction Dates from Bank Narratives
-- [ ] **Day 39:** Working Capital & Current Ratio Analysis
-- [ ] **Day 40:** Automated Fixed vs. Variable Cost Classification
-- [ ] **Day 41:** Finding Missing Invoices in Bank Statements
-- [ ] **Day 42:** Pareto 80/20 Profit Analysis (Top Customers)
-- [ ] **Day 43:** Annual Depreciation Expense Calculation
-- [ ] **Day 44:** Monthly Expense Fluctuation Monitoring (MoM)
-- [ ] **Day 45:** Detecting Missing Bank or Tax Info in Payroll
-- [ ] **Day 46:** Inventory Turnover in Days
-- [ ] **Day 47:** Multi-Currency Transaction Converter
-- [ ] **Day 48:** Ad Spend vs Sales Correlation Analysis
-- [ ] **Day 49:** Automated Net Pay Calculation
-- [ ] **Day 50:** Trial Balance Summary by Account Type
-- [ ] **Day 51:** Degree of Operating Leverage (DOL)
-- [ ] **Day 52:** Loan Present Value (PV) Calculation
-- [ ] **Day 53:** Profit Sensitivity (15% Cost Increase Impact)
-- [ ] **Day 54:** Total Asset Turnover Ratio
-- [ ] **Day 55:** Automated Client Credit Scoring Model
-- [ ] **Day 56:** Cash Flow Trend Analysis (Inflow vs Outflow)
-- [ ] **Day 57:** Economic Value Added (EVA) Analysis
-- [ ] **Day 58:** Automated Operating Cash Flow Calculation
-- [ ] **Day 59:** Multi-Product Weighted Average Break-Even Point
-- [ ] **Day 60:** Auditing Manual Journal Entries for Risks
-- [ ] **Day 61:** Live Market Data Connector (Gold Price)
-- [ ] **Day 62:** Automatic Stock Reorder Point Alerts
-- [ ] **Day 63:** Quarterly Revenue Growth Analysis
-- [ ] **Day 64:** Data Security: Hashing Bank Account Numbers
-- [ ] **Day 65:** Branch Expense Distribution (Box Plot)
-- [ ] **Day 66:** Estimated Salvage Value Calculation
-- [ ] **Day 67:** Automated VAT Calculation (5%)
-- [ ] **Day 68:** Key Metric: Revenue per Employee
-- [ ] **Day 69:** Cash Flow Forecasting (Rolling Mean)
-- [ ] **Day 70:** Executive Financial Master Dashboard
+- [x] **Day 39:** Working Capital & Current Ratio Analysis
+- [x] **Day 40:** Automated Fixed vs. Variable Cost Classification
+- [x] **Day 41:** Finding Missing Invoices in Bank Statements
+- [x] **Day 42:** Pareto 80/20 Profit Analysis (Top Customers)
+- [x] **Day 43:** Annual Depreciation Expense Calculation
+- [x] **Day 44:** Monthly Expense Fluctuation Monitoring (MoM)
+- [x] **Day 45:** Detecting Missing Bank or Tax Info in Payroll
+- [x] **Day 46:** Inventory Turnover in Days
+- [x] **Day 47:** Multi-Currency Transaction Converter
+- [x] **Day 48:** Ad Spend vs Sales Correlation Analysis
+- [x] **Day 49:** Automated Net Pay Calculation
+- [x] **Day 50:** Trial Balance Summary by Account Type
+- [x] **Day 51:** Degree of Operating Leverage (DOL)
+- [x] **Day 52:** Loan Present Value (PV) Calculation
+- [x] **Day 53:** Profit Sensitivity (15% Cost Increase Impact)
+- [x] **Day 54:** Total Asset Turnover Ratio
+- [x] **Day 55:** Automated Client Credit Scoring Model
+- [x] **Day 56:** Cash Flow Trend Analysis (Inflow vs Outflow)
+- [x] **Day 57:** Economic Value Added (EVA) Analysis
+- [x] **Day 58:** Automated Operating Cash Flow Calculation
+- [x] **Day 59:** Multi-Product Weighted Average Break-Even Point
+- [x] **Day 60:** Auditing Manual Journal Entries for Risks
+- [x] **Day 61:** Live Market Data Connector (Gold Price)
+- [x] **Day 62:** Automatic Stock Reorder Point Alerts
+- [x] **Day 63:** Quarterly Revenue Growth Analysis
+- [x] **Day 64:** Data Security: Hashing Bank Account Numbers
+- [x] **Day 65:** Branch Expense Distribution (Box Plot)
+- [x] **Day 66:** Estimated Salvage Value Calculation
+- [x] **Day 67:** Automated VAT Calculation (5%)
+- [x] **Day 68:** Key Metric: Revenue per Employee
+- [x] **Day 69:** Cash Flow Forecasting (Rolling Mean)
+- [x] **Day 70:** Executive Financial Master Dashboard
 
 ---
 # Maher Al-Momani
