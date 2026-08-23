@@ -25,9 +25,9 @@ This repository documents a 70-day challenge of automating real-world accounting
 - [x] **Day 18:** Finding the Lowest Price among Suppliers
 - [x] **Day 19:** Days Sales Outstanding (DSO) Calculation
 - [x] **Day 20:** Instant Financial Summary using Python Pivot
-- [ ] **Day 21:** Sensitivity Analysis for Profit Projections
-- [ ] **Day 22:** Merging Data from All Excel Sheets into One Master Table
-- [ ] **Day 23:** Finding Relationships between Expense Categories (Heatmap)
+- [x ] **Day 21:** Sensitivity Analysis for Profit Projections
+- [x ] **Day 22:** Merging Data from All Excel Sheets into One Master Table
+- [x ] **Day 23:** Finding Relationships between Expense Categories (Heatmap)
 - [ ] **Day 24:** Splitting Complex Strings (e.g., ID-Date-Category)
 - [ ] **Day 25:** Weighted Average Cost of Capital (WACC) Calculation
 - [ ] **Day 26:** Common-Size Income Statement (Vertical Analysis)
